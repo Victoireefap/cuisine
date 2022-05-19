@@ -1,0 +1,72 @@
+body {
+	background-color: #E9D8DD;
+	margin: 85px;
+	font-family: 'Mukta', sans-serif;
+	
+}
+
+h1	{
+	color:  #764252;
+	text-align: center;
+	font-size: 50px;
+}
+
+
+h2 {
+	color: #C45A7A;
+}
+
+
+.center{
+	text-align: center;
+}
+
+.picture-square {
+	width: 31%;
+	height: 400px;
+	object-fit: cover;
+}
+
+
+.elements-aligned {
+	display: flex;
+	justify-content: space-around;
+}
+
+.velouté {
+	width: 1000px;
+	height: 500px;
+	object-fit: cover;
+}
+
+.fondant {
+	width:1000px;
+	height: 500px;
+	object-fit: cover;
+}
+
+.link-aligned {
+	display: flex;
+	justify-content: space-around;
+	padding: 3%;
+	border: 2px solid #C45A7A;
+}
+
+
+a {
+	color: #C45A7A;
+	text-decoration: none;
+	font-weight: 800;
+}
+
+
+a:hover {
+	color: black;
+}
+
+
+
+div {
+	background-color: #FFFFFF;
+	padding: 50px;
+}
